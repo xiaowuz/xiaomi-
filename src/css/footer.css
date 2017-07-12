@@ -1,0 +1,39 @@
+.footer{width: 100%;background-color: #fff;}
+.ft_top_border{overflow: hidden;border-bottom: 1px solid #ccc;}
+.ft_top_ul1{margin-left: -1px}
+.ft_top_ul1>li{display: block;width: 244px;height: 26px;line-height: 26px;border-left: 1px solid #ccc;text-align: center;margin:30px 0 30px 0; }
+.ft_top_ul1>li>a{font-size: 16px;color:#616161;}
+.ft_top_ul1>li>a:hover{color: #ff6700;}
+.ft_top_ul1_li1{background-image: url(../images/footer1.jpg);background-repeat:no-repeat;background-position: 45px 0;}
+.ft_top_ul1_li2{background-image: url(../images/footer2.jpg);background-repeat:no-repeat;background-position: 40px 0;}
+.ft_top_ul1_li3{background-image: url(../images/footer3.jpg);background-repeat:no-repeat;background-position: 45px 0;}
+.ft_top_ul1_li4{background-image: url(../images/footer4.jpg);background-repeat:no-repeat;background-position: 55px 0;}
+.ft_top_ul1_li5{background-image: url(../images/footer5.jpg);background-repeat:no-repeat;background-position: 35px 0;}
+/*footcont*/
+.ft_cont_ul{width: 56px;margin:40px 104px 38px 0;}
+.ft_cont_ul_li1{font-size: 14px;color: #616161;margin-bottom: 15px;}
+.ft_cont_ul_li{margin-top: 8px;}
+.ft_cont_ul_li>a{font-size: 12px;color: #757575;}
+.ft_cont_ul_li>a:hover{color: #ff6700;}
+.ft_cont_div{width: 248px;border-left: 1px solid #ccc;text-align: center;margin:40px 0 40px 0;}
+.ft_cont_div_sp{display: block;font-size: 16px;color: #ff6700;margin-bottom: 12px;}
+.ft_cont_div_i{display: block;font-size: 12px;color: #616161;font-style:normal;margin-bottom:8px;}
+.ft_cont_div_btn{width: 118px;padding-left:20px;height: 28px;border:1px solid #ff6700;color: #ff6700;font-size: 12px;outline: none;
+	background-color: #fff;cursor: pointer;background-image: url(../images/24kefu.png);background-repeat: no-repeat;background-position: 10px 6px;}
+.ft_cont_div_btn:hover{background-image: url(../images/24kefu2.png);color: #fff;background-color: #ff6700;}
+/*footer2*/
+.footer2{width: 100%;background:#fafafa;padding-top: 30px;}	
+.ft2_aline{padding-left: 66px;background-image: url(../images/milogo.jpg);background-repeat: no-repeat;}
+.ft2_box{width: 730px;height:60px;line-height:18px;overflow: hidden;font-size: 12px;color: #b0b0b0;}
+.ft2_ul{margin:0 0 0 -5px;}
+.ft2_ul_li{padding:0 4px 0 4px;border-left: 1px solid #ccc; }
+.ft2_ul_li>a{font-size: 12px;color: #757575;}
+.ft2_ul_li>a:hover{color: #ff6700;}
+.ft2_box>a{font-size: 12px;color: #b0b0b0;}
+.ft2_box>a:hover{color: #ff6700;}
+.downicon{width: 100%;height: 73px;background-image: url(../images/downicon.jpg);background-repeat: no-repeat;}
+.downicon:after{content: '';display:block;}
+
+
+
+

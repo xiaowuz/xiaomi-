@@ -1,0 +1,5 @@
+*{margin:0;padding:0;list-style: none;text-decoration:none;font-family: "微软雅黑";}
+.fl{float: left;}
+.fr{float: right;}
+.clearFix:after{content: '';display: block;clear: both;}
+.wapper{margin:0 auto;width: 1226px;}
